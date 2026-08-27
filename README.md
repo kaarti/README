@@ -5,9 +5,7 @@ and AI-assisted development.
 
 ⭐️ 20+ projects from domains like industry, consumer products, and healthcare
 
-⭐️ 5,5 years of experience
-
-⭐️ Background in Cognitive science and Musicology
+⭐️ Background in Cognitive science
 
 ---
 
