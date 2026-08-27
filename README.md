@@ -1,6 +1,9 @@
-# README
+# Hi, I'm Lauri!
 
-### Hi, I'm Lauri!
+### **I'm a product designer or UX/UI designer who builds tools that bridge the gap between design systems
+and AI-assisted development.**
+
+
 
 [Yhden lauseen positiointi. Risteyskohta, ei tittelilista.
 Esim: "UX-suunnittelija, joka rakentaa työkaluja design systemin
