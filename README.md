@@ -1,4 +1,4 @@
-# Hi, I'm Lauri!
+## Hi, I'm Lauri!
 
 I'm a UX/UI designer who designs and builds tools that bridge some the gaps between design systems
 and AI-assisted development.
