@@ -1,54 +1,32 @@
 # Hi, I'm Lauri!
 
-### **I'm a product designer or UX/UI designer who builds tools that bridge the gap between design systems
-and AI-assisted development.**
+I'm a UX/UI designer who designs and builds tools that bridge some the gaps between design systems
+and AI-assisted development.
 
-
-
-[Yhden lauseen positiointi. Risteyskohta, ei tittelilista.
-Esim: "UX-suunnittelija, joka rakentaa työkaluja design systemin
-ja tekoälyavusteisen kehityksen väliin."]
-
-[1-2 riviä taustaa: vuodet, koulutus, toimiala. Vain se mikä
-tukee positiointia.]
+⭐️ 20+ projects from domains like industry, consumer products, and healthcare
+⭐️ 5,5 years of experience
+⭐️ Background in Cognitive science and Musicology
 
 ---
 
-#### Valjaat tekoälylle
+#### Harnesses for AI-driven development
 
 <!-- Työkalut, jotka pitävät AI-avusteisen kehityksen kurissa. -->
 
-| | |
-|---|---|
-| [projektin-nimi](linkki) | [Mitä se estää tai pakottaa. Esim: "Agentti ei voi keksiä uusia värejä — CI hylkää PR:n, jossa on hardkoodattu hex."] · [demo](linkki) |
-| [projektin-nimi](linkki) | [kuvaus] |
-
-#### Design system, skaalautuvasti
+#### Design systems
 
 <!-- Mittarit, adoptio, kypsyysmallit, tokenit. -->
 
-| | |
-|---|---|
-| [projektin-nimi](linkki) | [kuvaus] · [demo](linkki) |
-
-#### Design-työkalut
+#### Design tools
 
 <!-- Figma-pluginit, skriptit, kääntimet. -->
 
-| | |
-|---|---|
-| [projektin-nimi](linkki) | [kuvaus] · [Figma Community](linkki) |
-
-#### Sekalaista
+#### Personal projects or demos
 
 <!-- Yksi hauska juttu. Kehystä se silti ammatillisesti. -->
 
-| | |
-|---|---|
-| [projektin-nimi](linkki) | [kuvaus] · [pelaa](linkki) |
-
 ---
 
-#### Mistä löydät minut
+#### Where to find me
 
-[sivustosi.fi](linkki) · [LinkedIn](linkki)
+[LinkedIn](www.linkedin.com/in/laurikaartinen)
